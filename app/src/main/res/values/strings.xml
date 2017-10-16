@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TallerCuatro</string>
+    <string name="str_1">Usuarios</string>
+    <string name="str_3">Comentarios</string>
+    <string name="str_2">Post</string>
+    <string name="str_4">Actualizar Datos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="str_tb_p1">Usuarios</string>
+    <string name="str_tb_p2">Post</string>
+    <string name="str_tb_p3">Comentarios</string>
+</resources>

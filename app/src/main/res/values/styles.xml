@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#bc3c38</item>
+        <item name="colorPrimaryDark">#860a03</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+    </style>
+    <style name="BottomNavigator">
+        <item name="android:background">#FF13EF07</item>
+        <item name="itemIconTint">@android:color/holo_blue_dark</item>
+        <item name="itemTextColor">@android:color/white</item>
+    </style>
+
+</resources>
